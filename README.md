@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Sachin
 
-🕶️ Anonymous Developer  
 🧠 Cyber Security Enthusiast  
 💻 Web Developer  
 🌌 Curious about the universe & technology  
@@ -9,7 +8,7 @@
 
 ## 🧠 About Me
 - Introvert | Observer | Learner
-- Learning by **Breaking • Fixing • Creating**
+- **Learning • Breaking • Fixing • Creating**
 - Interested in:
   - Cyber Security & Online Safety
   - Web Development
@@ -36,7 +35,7 @@
 ---
 
 ## 🌍 Links
-- 🌐 Website: https://paradox-world.netlify.app/
+- My fist🌐 Website: https://paradox-world.netlify.app/
 
 ---
 
