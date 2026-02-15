@@ -2,8 +2,8 @@
 
 🧠 Cyber Security Enthusiast  
 💻 Web Developer  
+📱 Mobile techy
 🌌 Curious about the universe & technology  
-
 ---
 
 ## 🧠 About Me
